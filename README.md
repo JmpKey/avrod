@@ -41,8 +41,8 @@ chmod 777 <your DB name>.fdb>
 
 # Configuration
 To do this, there is a path.conf file in build/Desktop-Debug/. It has the following parameters:
-"pathdb" = "<database path>"
-"pathreport" = "<home address>"
+"pathdb" = "<*database path>"
+"pathreport" = "<*home address>"
 "rdata" = "<*role>"
 * The role can be one of 3: "PASSENGERS", "PERSONNEL", "ST_ATTENDAT" (station attendant).
 
